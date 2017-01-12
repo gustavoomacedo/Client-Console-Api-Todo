@@ -1,0 +1,11 @@
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\bin\Debug\ProjetoConsoleRequisicaoHttp.exe.config
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\bin\Debug\ProjetoConsoleRequisicaoHttp.exe
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\bin\Debug\ProjetoConsoleRequisicaoHttp.pdb
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\obj\Debug\ProjetoConsoleRequisicaoHttp.exe
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\obj\Debug\ProjetoConsoleRequisicaoHttp.pdb
+C:\Users\Gustavo Macedo\Documents\ProjetosTestes\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\obj\Debug\ProjetoConsoleRequisicaoHttp.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Macedo\Source\Repos\Client-Console-Api-Todo\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\bin\Debug\ProjetoConsoleRequisicaoHttp.exe.config
+C:\Users\Gustavo Macedo\Source\Repos\Client-Console-Api-Todo\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\obj\Debug\ProjetoConsoleRequisicaoHttp.exe
+C:\Users\Gustavo Macedo\Source\Repos\Client-Console-Api-Todo\ProjetoConsoleRequisicaoHttp\ProjetoConsoleRequisicaoHttp\obj\Debug\ProjetoConsoleRequisicaoHttp.pdb
