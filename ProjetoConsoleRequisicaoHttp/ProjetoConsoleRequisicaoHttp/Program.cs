@@ -104,7 +104,7 @@ namespace ProjetoConsoleRequisicaoHttp
 
                 var httpContent = new StringContent(JsonConvert.SerializeObject(_todo).ToString(), Encoding.UTF8, "application/json");
 
-                var response = client.PutAsync($"{BaseUrl}todo/{_todo.id}", httpContent).Result;
+                var response = client.PutAsync($"{BaseUrl}todo", httpContent).Result;
 
                 if (response.IsSuccessStatusCode)
                 {
